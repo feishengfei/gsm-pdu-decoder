@@ -1,4 +1,2 @@
-### GSM PDU SMS decoder
-
-#### TODO
-- The source files need to be updated and API documentation should be added
+https://github.com/qcdong2016/SDL_iconv
+https://github.com/shishi012/gsm-pdu-decoder

@@ -1,0 +1,11 @@
+.*.swp
+.*.swo
+tags
+sms_demo
+*.o
+*.so
+a.out
+*.log
+test
+decode
+encode
